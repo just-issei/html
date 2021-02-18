@@ -12,7 +12,3 @@ Connect with me :
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 
 ---
-
-<img src="https://raw.githubusercontent.com/just-issei/just-issei/main/img/kawaii.gif">
-
----
